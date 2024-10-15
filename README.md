@@ -15,7 +15,7 @@
 
 - **Linguagem**: Python
 - **Bibliotecas**: `requests`, `dotenv`, `Streamlit`, `bs4`
-- **API**: Serviço externo para receitas Spoonacular
+- **API**: Serviço externo para receitas Spoonacular. A APi apresentada não está funcionando, então crie uma em https://spoonacular.com/food-api
 
 ## Como Contribuir
 
